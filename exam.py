@@ -1,4 +1,4 @@
 A = 123
-ssB = 'Salesforce';
-System.debug('Value is =' + A);
-System.debug('String is =' + B);
+B = 'Salesforce';
+print('Value is =' + A);
+print('String is =' + B);
