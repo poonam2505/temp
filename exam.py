@@ -1,4 +1,2 @@
-A = 123
-B = 'Salesforce';
-print('Value is =' + A);
-print('String is =' + B);
+for n in range(10):
+  print(n)
