@@ -1,4 +1,4 @@
-Integer A = 123;
-String B = 'Salesforce';
+A = 123
+ssB = 'Salesforce';
 System.debug('Value is =' + A);
 System.debug('String is =' + B);
